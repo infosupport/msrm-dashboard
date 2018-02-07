@@ -1,6 +1,8 @@
 # Microsoft Release Management Dashboard
 This repo contains a simple dashboard for Microsoft Release Management (RM). It's used primarily for giving teams a quick insight into their release pipeline and all releases that are triggered. 
 
+This repo is archived because it is not under active development anymore. Also the new version of RM has a far better UI, which removes the need for a customdashboard.
+
 ## Dashboard
 The dashboard shows the last 5 releases that were started on the RM server (the number of releases shown is configurable). See a screenshot of a dashboard below:
 
